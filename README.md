@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sumusjack
-- 👀 I’m interested in Full Stack Development, React JS, Node JS, Python, and Django.
+- 👀 I’m interested in Full Stack Development, React JS, Node JS, Python, Golang, and Java
 - 🌱 I’m currently learning Node JS, Express, and AWS
 - 📫 How to reach me jackbrisson1@gmail.com
 
